@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi I'm sang eon 👋
+
+
+
+
+
+
+
 
 <!--
 **sanng97/sanng97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML](https://img.shields.io/badge/html-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![css](https://img.shields.io/badge/css-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
+![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
