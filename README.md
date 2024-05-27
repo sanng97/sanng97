@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![flutterflow](https://img.shields.io/badge/flutterflow-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 ⚡ project
