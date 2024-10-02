@@ -48,9 +48,13 @@ Here are some ideas to get you started:
 
 
 ⚡ project
-
+----------------------------------------------------------------------------------------------------------
+=> conBee (23.11 - 23.12)
+conBee는 편의점 본사와 지점운영을 지원하는 통합 솔루션입니다.
 https://github.com/team-farmers/Oliview
 
+=> Oliview (23.09 - 23.11)
+Oliview는 맛집 리뷰 컨텐츠와 채팅서비스를 기반으로 혼밥하는 사람들에게 유용한 홈페이지 입니다.
 https://github.com/Bee-Keepers/conbee
 
 
